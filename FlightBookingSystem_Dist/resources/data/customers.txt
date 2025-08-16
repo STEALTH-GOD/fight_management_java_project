@@ -1,0 +1,7 @@
+1,Abdel-Rahman Tawil,07555555555,abdel@gmail.com
+2,Kostas Vlachos,07596454545,kostas@gmail.com
+3,sam altman,09755344334,sam@gmail.com
+4,Alice,123456789,alice@gmail.com
+5,elon,122345567,elon@gmail.com
+6,Bob,12345657,bob@gmail.com
+7,Richard,98419841,rich@gmail.com
